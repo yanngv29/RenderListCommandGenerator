@@ -30,4 +30,4 @@ This module will only work with tiles in ZXY format aka "Spherical Mercator, Ope
 
 I built this to pre generate tiles on a OSM tile server because , France is a parse country as you can see in the Example.
 
-inspired by [https://github.com/ianwcarlson/map-tile-downloader](https://github.com/ianwcarlson/map-tile-downloader)
+inspired by [https://github.com/chriswhong/map-tile-downloader](https://github.com/chriswhong/map-tile-downloader)

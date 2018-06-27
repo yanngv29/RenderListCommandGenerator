@@ -1,0 +1,13 @@
+{
+  "name": "RenderListCommandGenerator",
+  "version": "0.0.1",
+  "description": "Render_List command generator",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yanngv29",
+  "license": "MIT"
+}

@@ -3,7 +3,9 @@ var options = {
     //bbox : [-13.03572,45.02732,-12.61393,45.33906], //[south,west,north,east]  Mayotte
     //bbox : [15.77670,-61.86005,16.54700,-60.96741], //[south,west,north,east]  Guadeloupe
     //bbox : [14.36049,-61.24070,14.89732,-60.77927], //[south,west,north,east]  Martinique
-    bbox : [2.01036,-54.66399,5.95510,-51.44500], //[south,west,north,east]  Guyane
+    //bbox : [2.01036,-54.66399,5.95510,-51.44500], //[south,west,north,east]  Guyane
+    bbox : [41.25323,8.45241, 43.05303,9.59498], //[south,west,north,east]  Corse
+    //bbox : [42.31650,-5.26263,51.14835,8.29450], //[south,west,north,east]  France
     zoom : {
         max : 17,
         min : 9
